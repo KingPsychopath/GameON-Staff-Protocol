@@ -3,6 +3,11 @@ GameON-Staff-Protocol
 
 The protocol for all staff of the GameON Network
 
+## Contributors
+
+* [MichaelBanks](https://github.com/MichaelBanks)
+* [GrahamCampbell](https://github.com/GrahamCampbell)
+* [Rottens](https://github.com/Rottens)
 
 ## License
 
