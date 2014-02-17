@@ -1,53 +1,8 @@
-Mod Protocol:
-	How to carry out Temp bans:
-		Type in /Tempban (Username) (Time in Seconds) (Reason) There must be sufficient proof of the offence, such as a screenshot or video. This must be included in the tempban reason, if you won't have a video link until it's uploaded, then you must wait for it to tempban.
-	How to behave in chat:
-		Act professional, you can joke around, but we need you to behave professionally, and do not act immature around the players.
-	What deserves a Temp ban:
-		After a serious rule breaking offence, or otherwise multiple kicks/warnings have happened, with no other method able to be used as punishment.
-	What do you do outside of banning:
-		You answer player questions, you handle chat offences(if there are any). You handle hacking, and other offences.
-	How do you handle accidents:
-		Undo the accident, and Private Message the player an apology.
-	How to answer player questions:
-		If the answer to their question isn't on the list of questions and answers, and it isn't a stupid question, then you should respond with the most appropriate answer, if you don't have the answer, review the protocol for a way to respond.
-	What deserves a kick:
-		A repeated offence that didn't stop with a warning or a mute. Such as, but not limited to, spamming, or hacking.
-	What deserves a mute:
-		Spamming
-	What to do when asked stupid questions:
-		Ignore them. Never respond to them at all.
-	SC to use when applying for Moderator:
-		Your secret code is your name with your age next to it plus your age multiplied by 5. Place it in your addition info after this "SC:"
-	What is a stupid question:
-		1. Can I have OP
-		2. Can I fly?
-		3. Can I be (Insert rank here)?
-		4. Can you be my friend?
-		5. Can I have (X) Item?
-		6. When will this game be open?
-		7. When is (youtuber) coming on?
-		Etcetera.
-	How to answer questions you don't know the answer to:
-		You ask an admin or higher, otherwise send a message on the forums to the higher ranked staff.
-	A list of questions, and there answers:
-		1. Can I be a builder?
-			Apply on the forums.
-		2. How do I become staff?
-			Apply on the forums.
-		3. Where is the forum?
-			Gameonmc.com
-		4. What is the Teamspeak3 IP(ts3)?
-			Go.play.it
-		5. Who is the owner?
-			Every staff member is an owner.
-		6. Where are the games?
-			In their respective rooms.
-		7. Can I be unbanned?
-			Appeal on the forums.
-		8. Can I be unmuted?
-			No.
-		9. I want to offer a business opportunity/venture?
-			Send an admin a PM for business offers and ventures.
-		10. Can you make/add (gamemode)?
-			Make a post in the suggestions section of the forums.
+##How to carry out temporary bans:
+* Verify that the ban is appropriate for the offence which took place.
+* If possible, check with other members of the team as to include a second (or even a third) opinion.
+* Check the Ban System to see if the user has any previous recorded offences.
+* If any, take those into account when performing the ban.
+* Execute the command /tempban to perform the ban (see command formatting below)
+* Check the Ban System once again to see if the ban was processed correctly.
+* If not, /unban and repeat.
