@@ -1,3 +1,7 @@
+##How to conduct yourself as a staff member:
+* You should be polite to all players at all times
+* Never lose your temper with a player or insult them. Indirectly or not.
+
 ##How to carry out a ban:
 * Verify that the ban is appropriate for the offence which took place, a ban is not considered appropriate if there is insufficient evidence to prove the player guilty.
 * Check the Ban System to see if the user has any previous recorded offences. If any, take those into account when performing the ban.
