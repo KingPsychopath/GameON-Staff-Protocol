@@ -15,7 +15,7 @@ You are encouraged to open pull requests. Only valid protocol voted on by the Ga
 
 However, pull requests coming from third parties can be useful to understand context, discuss changes directly where they will happen and keep changes accountable.
 
-Official change proposals from the GameON team will be opened as pull requests as they become publicy available.
+Official change proposals from the GameON team will be opened as pull requests as they become publically available.
 
 ## License
 
