@@ -3,19 +3,22 @@ GameON-Staff-Protocol
 
 The protocol for all staff of the GameON Network
 
+
 ## Contributors
 
 * [MichaelBanks](https://github.com/MichaelBanks)
 * [GrahamCampbell](https://github.com/GrahamCampbell)
 * [Rottens](https://github.com/Rottens)
 
+
 ## Pull Requests
 
-You are encouraged to open pull requests. Only valid protocol voted on by the GameON team will be merged.
+Please review these guidelines before submitting any pull requests.
 
-However, pull requests coming from third parties can be useful to understand context, discuss changes directly where they will happen and keep changes accountable.
+* You are encouraged to open pull requests.
+* Only valid protocol voted on by the GameON team will be merged.
+* Official change proposals from both the GameON team, and third parties should be opened as pull requests so they can be publicly reviewed.
 
-Official change proposals from the GameON team will be opened as pull requests as they become publically available.
 
 ## License
 
