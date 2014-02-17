@@ -9,6 +9,14 @@ The protocol for all staff of the GameON Network
 * [GrahamCampbell](https://github.com/GrahamCampbell)
 * [Rottens](https://github.com/Rottens)
 
+## Pull Requests
+
+You are encouraged to open pull requests. Only valid protocol voted on by the GameON team will be merged.
+
+However, pull requests coming from third parties can be useful to understand context, discuss changes directly where they will happen and keep changes accountable.
+
+Official change proposals from the GameON team will be opened as pull requests as they become publicy available.
+
 ## License
 
 Apache License
