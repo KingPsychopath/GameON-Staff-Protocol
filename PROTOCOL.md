@@ -1,14 +1,14 @@
 ##How to conduct yourself as a staff member:
-* You should be polite to all players at all times
+* You should be polite to all players at all times.
 * Never lose your temper with a player or insult them. Indirectly or not.
-* Do not even attempt to answer 'stupid questions' (defined below)
+* Do not even attempt to answer 'stupid questions'. (defined below)
 
 ##What is a stupid question?
 * Can I have OP?
 * Can I fly?
 * Can I have X amount of items?
 * Can I have <insert rank here>?
-* When will <insert gametype here> be launched
+* When will <insert gametype here> be launched?
 
 ##How to carry out a ban:
 * Verify that the ban is appropriate for the offence which took place, a ban is not considered appropriate if there is insufficient evidence to prove the player guilty.
